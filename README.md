@@ -6,8 +6,7 @@ This project is a practical implementation and simulation of a washing machine c
 ## 🚀 Run the Interactive Simulation in Your Browser!
 No installation or hardware required. You can test the entire project live with a single click:
 
-👉 **[CLICK HERE TO LAUNCH THE WOKWI SIMULATION][(https://wokwi.com/projects/469451626399185921)]** 👈
-
+👉 **[CLICK HERE TO LAUNCH THE WOKWI SIMULATION]([PASTE_YOUR_WOKWI_LINK_HERE](https://wokwi.com/projects/469451626399185921))** 👈
 ---
 
 ## 🛠️ Hardware & Components Used
